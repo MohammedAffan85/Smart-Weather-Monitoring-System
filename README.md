@@ -1,4 +1,4 @@
-# 🌦️ Smart Weather Monitoring System
+# 🌦️ Smart Crop Protection Perimeter Alarm
 
 ## 🏆 Hackathon Project
 
